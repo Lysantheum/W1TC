@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Headline of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,10 +16,9 @@ body {
 }
 /* Made a new style to seperate the header from the links */
 .nav {
-    
-    padding: 15px;
+    margin-left: 500px;
     font-size: 20px;
-    display: inline-block;
+    display: inline-block; 
     
 }
 
@@ -27,7 +26,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changes 3 letters in the title */
 .header h1 .seo {
     color: #4660a2;
 }
