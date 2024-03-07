@@ -1,4 +1,4 @@
-Changed most of the elements from <div> to semantic html elements. Changed some CSS code to separate certain elements.
+Had to refactor code based on specifications given to us by the company. Used semantic elements to change the code so it didn't use <div> so often.
 
 https://lysantheum.github.io/W1TC/
 
